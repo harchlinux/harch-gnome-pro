@@ -1,0 +1,18 @@
+To install [38;2;23;147;209mHarch Linux[0m follow the installation guide:
+
+mr:milad github page:
+https://github.com/miladalizadw
+
+my telegram private chat for any question:
+https://t.me/eobrd
+
+For Wi-Fi, use nmtui;
+
+1. Run: $ sudo nmtui
+12. Select "Activate a connection"
+3. Choose your network and enter the password if needed.
+
+Ethernet and WLAN should work automatically.
+
+
+[41m [41m [41m [40m [44m [40m [41m [46m [45m [41m [46m [43m [41m [44m [45m [40m [44m [40m [41m [44m [41m [41m [46m [42m [41m [44m [43m [41m [45m [40m [40m [44m [40m [41m [44m [42m [41m [46m [44m [41m [46m [47m [0m

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Harch installer
+Comment=
+Exec=sudo calamares
+Icon=harchlinx-logo
+Path=
+Terminal=false
+StartupNotify=false
